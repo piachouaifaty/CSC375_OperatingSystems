@@ -1,0 +1,3 @@
+/Users/piachouaifaty/CSC375_OperatingSystems/P_threads/cmake-build-debug/CMakeFiles/P_threads.dir
+/Users/piachouaifaty/CSC375_OperatingSystems/P_threads/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/piachouaifaty/CSC375_OperatingSystems/P_threads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
