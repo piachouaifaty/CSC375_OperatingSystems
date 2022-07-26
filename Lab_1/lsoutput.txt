@@ -1,0 +1,8 @@
+total 424
+-rwxr-xr-x  1 piachouaifaty  staff   56562 Jul 23 23:34 a.out
+-rw-r--r--@ 1 piachouaifaty  staff     908 Jul 23 17:50 fibonacci.cpp
+-rw-r--r--@ 1 piachouaifaty  staff     641 Jul 23 17:50 fork.cpp
+-rw-r--r--@ 1 piachouaifaty  staff  125744 Jul 23 17:50 lab1.pdf
+-rw-r--r--  1 piachouaifaty  staff       0 Jul 23 23:35 lsoutput.txt
+-rw-r--r--@ 1 piachouaifaty  staff    2587 Jul 23 23:24 shell.cpp
+-rw-r--r--@ 1 piachouaifaty  staff   17255 Jul 23 21:53 userprocesses.txt
