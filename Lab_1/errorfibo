@@ -1,0 +1,5 @@
+fibonacci.cpp:49:10: warning: implicit conversion of NULL constant to 'int' [-Wnull-conversion]
+   exit (NULL);
+   ~~~~  ^~~~
+         0
+1 warning generated.
