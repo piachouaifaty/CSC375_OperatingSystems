@@ -15,7 +15,9 @@ const int MAX_WORD_NUM=20; //each command has at most 20 words in it ...
 int main()
 {
 	pid_t  pid;
+	//environment variables
 	char * pwd, * host, * usr;
+	//array cmdline
 	char cmdline[MAX_LINE_LEN];
 
 	//Calling getenv to find the current values of envrironment variables 
