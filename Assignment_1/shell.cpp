@@ -25,13 +25,12 @@ int main()
 	host = getenv ("HOSTNAME");
 	usr = getenv ("USER");
 
+	//infinite loop
 	while (1)
 	{
-		//Todo: Generate a prompt message similar to bash,
-		//  using some other character for $  to end,
-		//  and using () instead of [] 
-		// Print out the prompt message: 
-		cout <<"[" << usr <<"@"<<host<<" "<<pwd<<"]$";
+
+		//prompt message
+		printf("%s:%s %s&", host, pwd, usr);
 
 		cin.getline (cmdline,256);
 
